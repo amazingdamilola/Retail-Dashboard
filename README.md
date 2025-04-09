@@ -1,4 +1,3 @@
-title of project
 #Summarized Retail Dashboard
 
 Scope:
